@@ -9,11 +9,11 @@
 
 # Input Tags
 
-[link]("https://tanvisabhadiya.hashnode.dev/input-tags")
+[link] ("https://tanvisabhadiya.hashnode.dev/input-tags")
 
 # Information about  CSS selectors
 
-[link]("https://tanvisabhadiya.hashnode.dev/css-selectors")
+[link] ("https://tanvisabhadiya.hashnode.dev/css-selectors")
 
 # Flex Box
 
@@ -37,4 +37,4 @@
 
 # Array Method
 
-[link]("https://hellojava.hashnode.dev/array-method")
+[link] ("https://hellojava.hashnode.dev/array-method")
