@@ -17,7 +17,7 @@
 
 # Flex Box
 
-[link]("https://tanvisabhadiya.hashnode.dev/flex-box")
+[link] ("https://tanvisabhadiya.hashnode.dev/flex-box")
 
 # Set Position Property
 
@@ -25,7 +25,7 @@
 
 # CSS box model
 
-[link]("https://tanvisabhadiya.hashnode.dev/css-box-model")
+[link] ("https://tanvisabhadiya.hashnode.dev/css-box-model")
 
 # CSS grid
 
